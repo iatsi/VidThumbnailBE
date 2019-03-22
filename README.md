@@ -1,7 +1,7 @@
 # VidThumbnailBE
 Backend For VidThumbnailBE
 
-#Installation
-Clone this repo
-npm i
-node index.js
+# Installation
+1. Clone this repo
+2. npm i
+3. node index.js
